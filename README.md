@@ -40,7 +40,7 @@ The new modern discord token grabber & token stealer, with discord password & to
 - Cookies
 - Password
 - 0/64 Detections
-- Cookie Automatic Logger (💎)
-- Metamask stealer (💎)
-- Exodus stealer (💎)
-- Anti-Delete & Anti-Spam (💎)
+- Cookie Automatic Logger
+- Metamask stealer
+- Exodus stealer
+- Anti-Delete & Anti-Spam
